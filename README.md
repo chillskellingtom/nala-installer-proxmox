@@ -30,8 +30,6 @@
 
 This project provides a Bash script for the automated installation of Nala, an advanced package manager, on Proxmox systems. It's designed for those who want to take advantage of Nala's features like faster package downloads, beautiful update display, and easy rollbacks.
 
-Replace your_github_username, nala-installer-proxmox, and other placeholders with your specific project information.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built With
