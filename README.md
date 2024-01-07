@@ -63,10 +63,10 @@ These commands will download the nala_installer.sh script from your GitHub repos
 
 Important Notes:
 
-Security Warning: Running scripts in this manner can be risky because it executes code directly from the internet. Users should trust the source (in this case, your GitHub repository) before executing such commands.
-Hosting the Script: The URLs provided in the commands assume that your script is hosted at https://github.com/chillskellingtom/nala-installer-proxmox/raw/main/nala_installer.sh. Replace chillskellingtom and the path with the actual URL where your script is hosted.
-Permissions: The script is executed as root, which is necessary for installing packages and modifying system files.
-Direct Execution: This approach skips the manual steps of cloning the repo, changing directories, and making the script executable. It directly fetches and runs the script.
+* Security Warning: Running scripts in this manner can be risky because it executes code directly from the internet. Users should trust the source (in this case, your GitHub repository) before executing such commands.
+* Hosting the Script: The URLs provided in the commands assume that your script is hosted at https://github.com/chillskellingtom/nala-installer-proxmox/raw/main/nala_installer.sh. Replace chillskellingtom and the path with the actual URL where your script is hosted.
+* Permissions: The script is executed as root, which is necessary for installing packages and modifying system files.
+* Direct Execution: This approach skips the manual steps of cloning the repo, changing directories, and making the script executable. It directly fetches and runs the script.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-```
-This updated README now includes the one-liner installation commands within the "Installation" section, along with the important notes for clarity and security concerns.
+
+
