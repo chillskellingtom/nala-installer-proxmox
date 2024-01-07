@@ -4,7 +4,7 @@
 <div align="center">
   <h3 align="center">Nala Installer for Proxmox</h3>
   <p align="center">
-    Automate the installation of Nala on Proxmox systems. This bash script is inspired by the <a href="https://christitus.com/stop-using-apt/" target="_blank">Chris Titus Tech, "Stop Using APT" Article</a> and utilizes the Nala package manager from its source at <a href="https://gitlab.com/volian/nala" target="_blank">Volian's Nala GitLab Repository</a>.
+    Automate the installation of Nala on Proxmox systems. This bash script is inspired by the <a href="https://christitus.com/stop-using-apt/" target="_blank">Chris Titus Tech, "Stop Using APT" Article</a> and utilises the excellent Nala package manager from its project source at <a href="https://gitlab.com/volian/nala" target="_blank">Volian's Nala GitLab Repository</a>.
     <br />
   </p>
 </div>
